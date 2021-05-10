@@ -38,4 +38,11 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmwasonga&layout=compact)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bmwasonga&show_icons=true&count_private=true&theme=light" width="50%" height="50%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwasonga&layout=compact&theme=light" width="50%" height="50%"></a>
+  </p>
