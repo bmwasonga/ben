@@ -34,14 +34,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
 <br />
 <br />
-
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bmwasonga&show_icons=true&count_private=true&theme=light" width="50%" height="50%">
-  </a>
-</p>
 
 <p align="left">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwasonga&layout=compact&theme=light" width="50%" height="50%"></a>
