@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on Javascript, React anf NodeJs
 - 🌱 I’m currently learning ... everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with learning how to use OpenSource forums
+- 👯 I’m looking to collaborate with others all over the world 
+- 🤔 I’m looking for help with learning how to use OpenSource 
 
 ### Connect with me:
 
