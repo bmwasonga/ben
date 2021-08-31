@@ -38,5 +38,5 @@
 <br />
 
 <p align="left">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwasonga&layout=compact&theme=light" width="50%" height="50%"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwasonga" width="50%" height="50%"></a>
   </p>
