@@ -2,13 +2,8 @@
 
 ### Hi there I'm Ben Wasonga 👋
 
-## I'm a Javascript and React enthusiasist.
-
-
-- 🔭 I’m currently working with Javascript, React, NodeJs and Graphql Apollo
-- 🌱 I’m currently learning ... everything 
-- 👯 I’m looking to collaborate with others all over the world 
-- 🤔 I’m looking for help with learning how to use OpenSource 
+# I'm a self-taught Javascript enthusiasist from Kenya.
+# open to opprtunities, challenges and interaction with anyone.
 
 ### Connect with me:
 
