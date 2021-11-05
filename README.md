@@ -1,9 +1,9 @@
 
 
-### Hi there I'm Ben Wasonga 👋
+## Hi there I'm Ben Wasonga 👋
 
-# I'm a self-taught Javascript enthusiasist from Kenya.
-# open to opprtunities, challenges and interaction with anyone.
+#### I'm a self-taught Javascript enthusiasist from Kenya.
+#### open to opprtunities, challenges and interaction with anyone.
 
 ### Connect with me:
 
