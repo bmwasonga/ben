@@ -1,4 +1,4 @@
 Hi 👋 My name is Ben Wasonga
 ============================
 
-## This page is under sconstruction
+## This page is under construction
